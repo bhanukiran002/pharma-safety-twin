@@ -1,0 +1,187 @@
+Timestamp,Equipment,Status
+2025-07-08 12:26:00,Reactor,Normal
+2025-07-08 12:26:00,Solvent Tank,Normal
+2025-07-08 12:26:00,Centrifuge,Normal
+2025-07-08 12:26:00,Compressor,Normal
+2025-07-08 12:26:00,Boiler,Normal
+2025-07-08 12:26:00,Mixing Kettle,Normal
+2025-07-08 12:26:10,Reactor,Normal
+2025-07-08 12:26:10,Solvent Tank,Normal
+2025-07-08 12:26:10,Centrifuge,Normal
+2025-07-08 12:26:10,Compressor,Normal
+2025-07-08 12:26:10,Boiler,Normal
+2025-07-08 12:26:10,Mixing Kettle,Normal
+2025-07-08 12:26:20,Reactor,Normal
+2025-07-08 12:26:20,Solvent Tank,Normal
+2025-07-08 12:26:20,Centrifuge,Normal
+2025-07-08 12:26:20,Compressor,Normal
+2025-07-08 12:26:20,Boiler,Normal
+2025-07-08 12:26:20,Mixing Kettle,Normal
+2025-07-08 12:26:30,Reactor,Normal
+2025-07-08 12:26:30,Solvent Tank,Normal
+2025-07-08 12:26:30,Centrifuge,Normal
+2025-07-08 12:26:30,Compressor,Normal
+2025-07-08 12:26:30,Boiler,Normal
+2025-07-08 12:26:30,Mixing Kettle,Normal
+2025-07-08 12:26:40,Reactor,Normal
+2025-07-08 12:26:40,Solvent Tank,Normal
+2025-07-08 12:26:40,Centrifuge,Normal
+2025-07-08 12:26:40,Compressor,Normal
+2025-07-08 12:26:40,Boiler,Normal
+2025-07-08 12:26:40,Mixing Kettle,Normal
+2025-07-08 12:26:50,Reactor,Normal
+2025-07-08 12:26:50,Solvent Tank,Normal
+2025-07-08 12:26:50,Centrifuge,Normal
+2025-07-08 12:26:50,Compressor,Normal
+2025-07-08 12:26:50,Boiler,Normal
+2025-07-08 12:26:50,Mixing Kettle,Normal
+2025-07-08 12:27:00,Reactor,Normal
+2025-07-08 12:27:00,Solvent Tank,Normal
+2025-07-08 12:27:00,Centrifuge,Normal
+2025-07-08 12:27:00,Compressor,Normal
+2025-07-08 12:27:00,Boiler,Normal
+2025-07-08 12:27:00,Mixing Kettle,Normal
+2025-07-08 12:27:10,Reactor,Normal
+2025-07-08 12:27:10,Solvent Tank,Normal
+2025-07-08 12:27:10,Centrifuge,Normal
+2025-07-08 12:27:10,Compressor,Normal
+2025-07-08 12:27:10,Boiler,Normal
+2025-07-08 12:27:10,Mixing Kettle,Normal
+2025-07-08 12:27:20,Reactor,Normal
+2025-07-08 12:27:20,Solvent Tank,Normal
+2025-07-08 12:27:20,Centrifuge,Normal
+2025-07-08 12:27:20,Compressor,Normal
+2025-07-08 12:27:20,Boiler,Normal
+2025-07-08 12:27:20,Mixing Kettle,Normal
+2025-07-08 12:27:30,Reactor,Normal
+2025-07-08 12:27:30,Solvent Tank,Normal
+2025-07-08 12:27:30,Centrifuge,Normal
+2025-07-08 12:27:30,Compressor,Normal
+2025-07-08 12:27:30,Boiler,Normal
+2025-07-08 12:27:30,Mixing Kettle,Normal
+2025-07-08 12:27:40,Reactor,Normal
+2025-07-08 12:27:40,Solvent Tank,Normal
+2025-07-08 12:27:40,Centrifuge,Normal
+2025-07-08 12:27:40,Compressor,Normal
+2025-07-08 12:27:40,Boiler,Normal
+2025-07-08 12:27:40,Mixing Kettle,Normal
+2025-07-08 12:27:50,Reactor,Normal
+2025-07-08 12:27:50,Solvent Tank,Normal
+2025-07-08 12:27:50,Centrifuge,Normal
+2025-07-08 12:27:50,Compressor,Normal
+2025-07-08 12:27:50,Boiler,Normal
+2025-07-08 12:27:50,Mixing Kettle,Normal
+2025-07-08 12:28:00,Reactor,Warning
+2025-07-08 12:28:00,Solvent Tank,Normal
+2025-07-08 12:28:00,Centrifuge,Normal
+2025-07-08 12:28:00,Compressor,Normal
+2025-07-08 12:28:00,Boiler,Normal
+2025-07-08 12:28:00,Mixing Kettle,Normal
+2025-07-08 12:28:10,Reactor,Warning
+2025-07-08 12:28:10,Solvent Tank,Normal
+2025-07-08 12:28:10,Centrifuge,Normal
+2025-07-08 12:28:10,Compressor,Normal
+2025-07-08 12:28:10,Boiler,Normal
+2025-07-08 12:28:10,Mixing Kettle,Normal
+2025-07-08 12:28:20,Reactor,Warning
+2025-07-08 12:28:20,Solvent Tank,Normal
+2025-07-08 12:28:20,Centrifuge,Normal
+2025-07-08 12:28:20,Compressor,Normal
+2025-07-08 12:28:20,Boiler,Normal
+2025-07-08 12:28:20,Mixing Kettle,Normal
+2025-07-08 12:28:30,Reactor,Warning
+2025-07-08 12:28:30,Solvent Tank,Normal
+2025-07-08 12:28:30,Centrifuge,Normal
+2025-07-08 12:28:30,Compressor,Normal
+2025-07-08 12:28:30,Boiler,Normal
+2025-07-08 12:28:30,Mixing Kettle,Normal
+2025-07-08 12:28:40,Reactor,Warning
+2025-07-08 12:28:40,Solvent Tank,Normal
+2025-07-08 12:28:40,Centrifuge,Normal
+2025-07-08 12:28:40,Compressor,Normal
+2025-07-08 12:28:40,Boiler,Normal
+2025-07-08 12:28:40,Mixing Kettle,Normal
+2025-07-08 12:28:50,Reactor,Warning
+2025-07-08 12:28:50,Solvent Tank,Normal
+2025-07-08 12:28:50,Centrifuge,Normal
+2025-07-08 12:28:50,Compressor,Normal
+2025-07-08 12:28:50,Boiler,Normal
+2025-07-08 12:28:50,Mixing Kettle,Normal
+2025-07-08 12:29:00,Reactor,High Risk
+2025-07-08 12:29:00,Solvent Tank,Normal
+2025-07-08 12:29:00,Centrifuge,Normal
+2025-07-08 12:29:00,Compressor,Normal
+2025-07-08 12:29:00,Boiler,Normal
+2025-07-08 12:29:00,Mixing Kettle,Normal
+2025-07-08 12:29:10,Reactor,High Risk
+2025-07-08 12:29:10,Solvent Tank,Normal
+2025-07-08 12:29:10,Centrifuge,Normal
+2025-07-08 12:29:10,Compressor,Normal
+2025-07-08 12:29:10,Boiler,Normal
+2025-07-08 12:29:10,Mixing Kettle,Normal
+2025-07-08 12:29:20,Reactor,High Risk
+2025-07-08 12:29:20,Solvent Tank,Normal
+2025-07-08 12:29:20,Centrifuge,Normal
+2025-07-08 12:29:20,Compressor,Normal
+2025-07-08 12:29:20,Boiler,Normal
+2025-07-08 12:29:20,Mixing Kettle,Normal
+2025-07-08 12:29:30,Reactor,High Risk
+2025-07-08 12:29:30,Solvent Tank,Normal
+2025-07-08 12:29:30,Centrifuge,Normal
+2025-07-08 12:29:30,Compressor,Normal
+2025-07-08 12:29:30,Boiler,Normal
+2025-07-08 12:29:30,Mixing Kettle,Normal
+2025-07-08 12:29:40,Reactor,High Risk
+2025-07-08 12:29:40,Solvent Tank,Normal
+2025-07-08 12:29:40,Centrifuge,Normal
+2025-07-08 12:29:40,Compressor,Normal
+2025-07-08 12:29:40,Boiler,Normal
+2025-07-08 12:29:40,Mixing Kettle,Normal
+2025-07-08 12:29:50,Reactor,High Risk
+2025-07-08 12:29:50,Solvent Tank,Normal
+2025-07-08 12:29:50,Centrifuge,Normal
+2025-07-08 12:29:50,Compressor,Normal
+2025-07-08 12:29:50,Boiler,Normal
+2025-07-08 12:29:50,Mixing Kettle,Normal
+2025-07-08 12:30:00,Reactor,High Risk
+2025-07-08 12:30:00,Solvent Tank,Normal
+2025-07-08 12:30:00,Centrifuge,Normal
+2025-07-08 12:30:00,Compressor,Normal
+2025-07-08 12:30:00,Boiler,Normal
+2025-07-08 12:30:00,Mixing Kettle,Normal
+2025-07-08 12:30:10,Reactor,High Risk
+2025-07-08 12:30:10,Solvent Tank,Normal
+2025-07-08 12:30:10,Centrifuge,Normal
+2025-07-08 12:30:10,Compressor,Normal
+2025-07-08 12:30:10,Boiler,Normal
+2025-07-08 12:30:10,Mixing Kettle,Normal
+2025-07-08 12:30:20,Reactor,High Risk
+2025-07-08 12:30:20,Solvent Tank,Normal
+2025-07-08 12:30:20,Centrifuge,Normal
+2025-07-08 12:30:20,Compressor,Normal
+2025-07-08 12:30:20,Boiler,Normal
+2025-07-08 12:30:20,Mixing Kettle,Normal
+2025-07-08 12:30:30,Reactor,High Risk
+2025-07-08 12:30:30,Solvent Tank,Normal
+2025-07-08 12:30:30,Centrifuge,Normal
+2025-07-08 12:30:30,Compressor,Normal
+2025-07-08 12:30:30,Boiler,Normal
+2025-07-08 12:30:30,Mixing Kettle,Normal
+2025-07-08 12:30:40,Reactor,High Risk
+2025-07-08 12:30:40,Solvent Tank,Normal
+2025-07-08 12:30:40,Centrifuge,Normal
+2025-07-08 12:30:40,Compressor,Normal
+2025-07-08 12:30:40,Boiler,Normal
+2025-07-08 12:30:40,Mixing Kettle,Normal
+2025-07-08 12:30:50,Reactor,High Risk
+2025-07-08 12:30:50,Solvent Tank,Normal
+2025-07-08 12:30:50,Centrifuge,Normal
+2025-07-08 12:30:50,Compressor,Normal
+2025-07-08 12:30:50,Boiler,Normal
+2025-07-08 12:30:50,Mixing Kettle,Normal
+2025-07-08 12:31:00,Reactor,High Risk
+2025-07-08 12:31:00,Solvent Tank,Normal
+2025-07-08 12:31:00,Centrifuge,Normal
+2025-07-08 12:31:00,Compressor,Normal
+2025-07-08 12:31:00,Boiler,Normal
+2025-07-08 12:31:00,Mixing Kettle,Normal
