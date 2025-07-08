@@ -1,0 +1,109 @@
+Timestamp,Equipment,Status,Pressure,Temperature,VOC,RPM
+2025-07-08 11:21:00,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:21:00,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:21:00,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:21:00,Compressor,Normal,4.5,,,
+2025-07-08 11:21:00,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:21:00,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:21:20,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:21:20,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:21:20,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:21:20,Compressor,Normal,4.5,,,
+2025-07-08 11:21:20,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:21:20,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:21:40,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:21:40,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:21:40,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:21:40,Compressor,Normal,4.5,,,
+2025-07-08 11:21:40,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:21:40,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:22:00,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:22:00,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:22:00,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:22:00,Compressor,Normal,4.5,,,
+2025-07-08 11:22:00,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:22:00,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:22:20,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:22:20,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:22:20,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:22:20,Compressor,Normal,4.5,,,
+2025-07-08 11:22:20,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:22:20,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:22:40,Reactor 1,Normal,2.5,180.0,,
+2025-07-08 11:22:40,Solvent Tank A,Normal,,,20.0,
+2025-07-08 11:22:40,Centrifuge 1,Normal,,,,2000.0
+2025-07-08 11:22:40,Compressor,Normal,4.5,,,
+2025-07-08 11:22:40,Boiler,Normal,1.5,150.0,,
+2025-07-08 11:22:40,Mixing Kettle,Normal,,70.0,,1000.0
+2025-07-08 11:23:00,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:23:00,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:23:00,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:23:00,Compressor,Warning,6.1,,,
+2025-07-08 11:23:00,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:23:00,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:23:20,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:23:20,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:23:20,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:23:20,Compressor,Warning,6.1,,,
+2025-07-08 11:23:20,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:23:20,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:23:40,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:23:40,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:23:40,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:23:40,Compressor,Warning,6.1,,,
+2025-07-08 11:23:40,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:23:40,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:24:00,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:24:00,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:24:00,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:24:00,Compressor,Warning,6.1,,,
+2025-07-08 11:24:00,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:24:00,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:24:20,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:24:20,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:24:20,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:24:20,Compressor,Warning,6.1,,,
+2025-07-08 11:24:20,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:24:20,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:24:40,Reactor 1,Warning,3.2,205.0,,
+2025-07-08 11:24:40,Solvent Tank A,Warning,,,55.0,
+2025-07-08 11:24:40,Centrifuge 1,Warning,,,,3100.0
+2025-07-08 11:24:40,Compressor,Warning,6.1,,,
+2025-07-08 11:24:40,Boiler,Warning,2.2,185.0,,
+2025-07-08 11:24:40,Mixing Kettle,Warning,,95.0,,1600.0
+2025-07-08 11:25:00,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:25:00,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:25:00,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:25:00,Compressor,High Risk,6.8,,,
+2025-07-08 11:25:00,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:25:00,Mixing Kettle,High Risk,,105.0,,1800.0
+2025-07-08 11:25:20,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:25:20,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:25:20,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:25:20,Compressor,High Risk,6.8,,,
+2025-07-08 11:25:20,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:25:20,Mixing Kettle,High Risk,,105.0,,1800.0
+2025-07-08 11:25:40,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:25:40,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:25:40,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:25:40,Compressor,High Risk,6.8,,,
+2025-07-08 11:25:40,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:25:40,Mixing Kettle,High Risk,,105.0,,1800.0
+2025-07-08 11:26:00,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:26:00,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:26:00,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:26:00,Compressor,High Risk,6.8,,,
+2025-07-08 11:26:00,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:26:00,Mixing Kettle,High Risk,,105.0,,1800.0
+2025-07-08 11:26:20,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:26:20,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:26:20,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:26:20,Compressor,High Risk,6.8,,,
+2025-07-08 11:26:20,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:26:20,Mixing Kettle,High Risk,,105.0,,1800.0
+2025-07-08 11:26:40,Reactor 1,High Risk,3.8,225.0,,
+2025-07-08 11:26:40,Solvent Tank A,High Risk,,,80.0,
+2025-07-08 11:26:40,Centrifuge 1,High Risk,,,,3400.0
+2025-07-08 11:26:40,Compressor,High Risk,6.8,,,
+2025-07-08 11:26:40,Boiler,High Risk,2.8,210.0,,
+2025-07-08 11:26:40,Mixing Kettle,High Risk,,105.0,,1800.0
