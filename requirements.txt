@@ -2,3 +2,6 @@ pandas
 matplotlib
 streamlit
 streamlit-autorefresh
+streamlit
+pandas
+plotly
